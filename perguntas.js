@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Profissões,
     'Qual o nome dado a profissão que ajuda pessoas?',
-    'Meducina'
+    'Medicina'
 )
 
 criaCartao(
