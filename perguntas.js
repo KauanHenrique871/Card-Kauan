@@ -1,23 +1,23 @@
 criaCartao(
-    'Conhecimentos gerais',
-    'Quem nasceu primeiro, o ovo ou a galinha?',
-    'Um bom agrônimo diria: depende'
+    'Sobre futebol',
+    'Quem nasceu ganhou o primeiro mundial de clubes?',
+    'Uruguai'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da Paris?',
-    'A capital de Paris é Diadema'
+    'Profissões,
+    'Qual o nome dado a profissão que ajuda pessoas?',
+    'Meducina'
 )
 
 criaCartao(
-    'História',
-    'Qual a cor do cavalo "Branco" de Napoleão?',
-    'Só sei que não era verde'
+    'Animes',
+    'Qual o nome do antagonista de naruto?',
+    'Sasuke'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'O que significa "i love you"?',
-    'Quer dizer morena em Francês'
+    'Matematica',
+    'Quanto fica 1+1?',
+    '2'
 )
